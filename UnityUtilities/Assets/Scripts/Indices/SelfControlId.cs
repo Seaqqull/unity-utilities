@@ -2,7 +2,7 @@
 
 namespace UnityUtilities.Identifiers
 {
-    class SelfControlId
+    public class SelfControlId
     {
         class Range
         {
