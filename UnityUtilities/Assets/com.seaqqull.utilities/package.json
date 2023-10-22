@@ -1,13 +1,13 @@
 {
     "name": "com.seaqqull.utilities",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "Utilities",
     "description": "Different helpful classes.",
     "unity": "2022.3",
     "unityRelease": "1f1",
-    "documentationUrl": "https://github.com/Seaqqull/unity-utilities?path=/UnitySaveSystem/Assets/com.seaqqull.utilities/Documentation/com.seaqqull.utilities.md",
-    "changelogUrl": "https://github.com/Seaqqull/unity-utilities?path=/UnitySaveSystem/Assets/com.seaqqull.utilities/CHANGELOG.md",
-    "licenseUrl" : "https://github.com/Seaqqull/unity-utilities?path=/UnitySaveSystem/Assets/com.seaqqull.utilities/LICENSE.md",
+    "documentationUrl": "https://github.com/Seaqqull/unity-utilities?path=/UnityUtilities/Assets/com.seaqqull.utilities/Documentation/com.seaqqull.utilities.md",
+    "changelogUrl": "https://github.com/Seaqqull/unity-utilities?path=/UnityUtilities/Assets/com.seaqqull.utilities/CHANGELOG.md",
+    "licenseUrl" : "https://github.com/Seaqqull/unity-utilities?path=/UnityUtilities/Assets/com.seaqqull.utilities/LICENSE.md",
     "dependencies": { },
     "keywords": ["Utilities"],
     "author": {
@@ -18,6 +18,6 @@
     "repository": {
         "url": "https://github.com/Seaqqull/unity-utilities.git",
         "type": "git",
-        "revision": "f397c5f3b3c7be8e2ce24f25e9730217b0a2d692"
+        "revision": "24c450a1478c5e68996b967357b2a690c1aaf874"
     }
 }
