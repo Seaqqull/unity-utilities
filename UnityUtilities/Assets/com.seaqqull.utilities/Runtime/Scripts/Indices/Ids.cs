@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
+using Utilities.Attributes;
 
-namespace UnityUtilities.Identifiers
+
+namespace Utilities.Identifiers
 {
     public enum DataState
     {

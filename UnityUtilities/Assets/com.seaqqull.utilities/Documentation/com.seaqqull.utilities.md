@@ -1,18 +1,18 @@
-# :floppy_disk: Utilities
-Some useful classes to use.
+# About Utilities package (`com.seaqqull.utilities`)
 
-## Description
-Useful classes for better development of the project.
-[Documentation] contains step-by-step instruction of usage.
+## Package contents
 
-## Functionality
-- Create id, strings data using scriptable objects,
-- Remap float values from one range into another,
-- ReadOnly editor attribute,
-- Self-control id's
+The following table describes the package folder structure:
 
-## How-to setup
-There are two ways to install the package:
+| **Location**           | **Description**                                    |
+| ---------------------- |----------------------------------------------------|
+| _Documentation~_       | Contains the documentation for the Unity package.  |
+| _Editor_               | Contains utilities for Editor windows and drawers. |
+| _Runtime_              | Contains utility methods and classes.              |
+
+<a name="Installation"></a>
+
+## Installation
 
 ### Local Installation
 You can [add the local](https://docs.unity3d.com/Manual/upm-ui-local.html)
@@ -26,11 +26,13 @@ project by:
 5. Select the `package.json` file.
 
 ### Github via Package Manager
-
 1. Navigate to the menu `Window` -> `Package Manager`.
 2. In the package manager window click on the `+` button on the top left of the packages list.
 3. Select `Add package from git URL...`
 4. Enter "https://github.com/Seaqqull/unity-utilities.git?path=/UnityUtilities/Assets/com.seaqqull.utilities".
 5. Click `Add` button.
 
-[Documentation]: https://github.com/Seaqqull/unity-utilities?path=/UnityUtilities/Assets/com.seaqqull.utilities/Documentation/com.seaqqull.utilities.md
+## Setup
+
+- Import
+- Use ^_^

@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 
-namespace UnityUtilities.Identifiers
+namespace Utilities.Identifiers
 {
-    class SelfControlId
+    public class SelfControlId
     {
         class Range
         {
